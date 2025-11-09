@@ -3,14 +3,14 @@
 }
 @font-face {
     font-family: 'Fascinate';
-    src: url('./SFProText-Regular.ttf') format('truetype');
+    src: url('SFProText-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap; /* Оптимизация загрузки */
 }
 @font-face {
     font-family: 'Fascinate1';
-    src: url('./SFProText-Bold.ttf') format('truetype');
+    src: url('SFProText-Bold.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap; /* Оптимизация загрузки */
@@ -130,3 +130,4 @@
         0 6px 22px rgba(0,0,0,0.14);
 
 }
+
